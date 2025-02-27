@@ -16,13 +16,13 @@
 
 .music-secion {
   border-radius: 10px;
-    border: 1px solid black;
+  border: 1px solid black;
   display: flex;
   flex-flow: row nowrap;
   padding: 20px
 }
 
-.music-secion div{
+.music-secion div {
   margin: 10px;
 }
 
